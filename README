@@ -3,3 +3,4 @@ Github training
 git init
 git add 'xxx.txt'
 git commit -m "message"
+git remote add origin https://github.com/try-git/try_git.git
