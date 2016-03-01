@@ -2,3 +2,4 @@ Github training
 
 git init
 git add 'xxx.txt'
+git commit -m "message"
