@@ -4,3 +4,7 @@ git init
 git add 'xxx.txt'
 git commit -m "message"
 git remote add origin https://github.com/try-git/try_git.git
+git push -u origin master
+
+
+If you want to skip the staging area, Git provides a simple shortcut. Providing the -a option to the git commit command makes Git automatically stage every file that is already tracked before doing the commit, letting you skip the git add part
